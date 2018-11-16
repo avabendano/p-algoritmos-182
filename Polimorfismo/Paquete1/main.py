@@ -1,4 +1,4 @@
-from paquete.model import *
+from paquete1.modelo import *
 
 persona = PersonaEquipo("Luis")
 persona.entrenamiento()
